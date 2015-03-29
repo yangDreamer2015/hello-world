@@ -3,4 +3,4 @@ Just another repository
 
 
 Hi Humans
-Who are we? We are future!
+Who are we? We are the future!
